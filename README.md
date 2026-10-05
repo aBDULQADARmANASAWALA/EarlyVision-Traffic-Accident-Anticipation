@@ -98,5 +98,5 @@ The project requires both the backend API and the frontend dashboard to be runni
    - **Risk Graph**: Displays the fluctuating accident probability over time, highlighting dangerous moments in red.
 
 ## Author
-**Kush**  
+**Abdulqadar**  
 
